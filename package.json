@@ -12,6 +12,5 @@
     "main": "js/jquery.NobleCount.js",
     "dependencies": {
 	"jquery": "^1.4.2"
-    },
+    }
 }
-
