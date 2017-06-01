@@ -1,0 +1,16 @@
+{
+    "name" : "NobleCount", 
+    "description" : "NobleCount is a customizable jQuery plugin for a more 'proper' count of the remaining characters.",
+    "homepage" : "https://github.com/theproductguy/NobleCount",
+    "version" : "1.0",
+    "contributors" : [],
+    "repository" : {
+        "type" : "git",
+        "url" : "https://github.com/derFreitag/NobleCount.git"
+    },
+    "bugs" : "https://github.com/derFreitag/NobleCount/issues",
+    "main": "js/jquery.NobleCount.js",
+    "dependencies": {
+	"jquery": "^1.4.2"
+    },
+}
